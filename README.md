@@ -55,7 +55,5 @@ Contributions are welcome! Feel free to fork the repo, open issues, and submit p
 
 💬 Have suggestions or feedback? Feel free to reach out! 🚀
 
-🔗 **GitHub:** [https://github.com/UmairOye/MusicPlayer-JetpackCompose.git]  
-📧 **Email:** [askedumairbashir@gmail.com]  
-
-#AndroidDev #JetpackCompose #MusicPlayer #OpenSource #Kotlin
+🔗 **GitHub:** https://github.com/UmairOye/MusicPlayer-JetpackCompose.git
+📧 **Email:** askedumairbashir@gmail.com

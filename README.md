@@ -2,6 +2,11 @@
 
 An open-source **Music Player** built with **Jetpack Compose** that supports all audio formats using **Android Media Player**. It provides a **beautiful and user-friendly UI/UX**, supporting **light & dark mode**, and allows users to play, pause, resume, and navigate through their songs easily.
 
+## Screenshots
+<img width="150" height="300" src="https://github.com/UmairOye/MusicPlayer-JetpackCompose/blob/master/screenshots/Screenshot_20250319-175740.png" alt="Image" >   <img width="150" height="300" src="https://github.com/UmairOye/MusicPlayer-JetpackCompose/blob/master/screenshots/Screenshot_20250319-175747.png" alt="Image" >   <img width="150" height="300" src="https://github.com/UmairOye/MusicPlayer-JetpackCompose/blob/master/screenshots/Screenshot_20250319-175751.png" alt="Image" >  <img width="150" height="300" src="https://github.com/UmairOye/MusicPlayer-JetpackCompose/blob/master/screenshots/Screenshot_20250319-175754.png" alt="Image" >
+ <img width="150" height="300" src="https://github.com/UmairOye/MusicPlayer-JetpackCompose/blob/master/screenshots/Screenshot_20250319-175805.png" alt="Image" >
+
+
 ## ✨ Features
 
 - 🎵 **Supports all audio formats** (MP3, WAV, AAC, etc.)

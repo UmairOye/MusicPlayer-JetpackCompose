@@ -23,7 +23,7 @@ class FolderViewModel @Inject constructor(private val mediaFetchingRepository: M
         fetchAudioFolders()
     }
 
-    private fun fetchAudioFolders(){
+    fun fetchAudioFolders(){
         viewModelScope.launch {
             mediaFetchingRepository.getAudioFolders().
                 onStart {  }

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="my_images" path="/"/>
+    <external-files-path name="my_images" path="." />
+    <external-files-path name="external_files" path="." />
+    <external-files-path name="external_files" path="/" />
+    <external-files-path name="Pictures" path="Pictures" />
+    <external-path
+        name = "external_files"
+        path = "Android/data/com.your.package/files/Pictures" />
+    <external-path
+        name="external_files"
+        path="Android/data/pl.myapp/files/Pictures" />
+    <external-path
+        name="external"
+        path="." />
+    <external-files-path
+        name="external_files"
+        path="." />
+    <cache-path
+        name="cache"
+        path="." />
+    <external-cache-path
+        name="external_cache"
+        path="." />
+    <files-path
+        name="files"
+        path="." />
+    <cache-path name="cache" path="/" />
+
+    <cache-path name="cache" path="." />
+    <external-path name="external" path="." />
+
+    <root-path name="root" path="." />
+    <files-path name="my_images" path="myfile/"/>
+    <files-path name="files" path="." />
+
+    <external-path name="external_files" path="." />
+    <external-path name="images" path="Pictures" />
+    <external-path name="my_images" path="." />
+    <external-path name="my_images" path="Android/data/com.pdfer.pdfreader.eagle.apps/files/Pictures" />
+    <external-path name="my_images" path="Android/data/com.pdfer.pdfreader.eagle.apps/files/Pictures/" />
+
+    <external-files-path name="images" path="Pictures"/>
+    <external-files-path name="camera_image" path="Pictures/"/>
+    <external-files-path name="external_files" path="." />
+    <external-files-path name="my_images" path="my_images" />
+    <external-cache-path name="external_cache" path="." />
+</paths>

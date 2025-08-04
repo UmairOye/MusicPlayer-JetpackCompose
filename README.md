@@ -68,3 +68,12 @@ If you have any suggestions, feel free to open an issue or reach out! Your feedb
 
 📌 **GitHub Repo**: [MusicPlayer-JetpackCompose](https://github.com/UmairOye/MusicPlayer-JetpackCompose)  
 🚀 Let's build something great together! 🎵
+
+## 💼 Hire Me
+Need help with Android development?  
+I specialize in:
+- Custom UI components (e.g., animated bottom navigation)
+- API integration (AI tools, social media, ads)
+- Performance optimization and clean architecture
+
+👉 [Hire me on Fiverr](https://www.fiverr.com/s/pd2VmoR)
